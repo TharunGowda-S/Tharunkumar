@@ -1,5 +1,5 @@
 # Tharunkumar
-<h1 align="center">Hi 👋, I'm Tharunkumar</h1>
+Hi 👋, I'm Tharunkumar
 
 
 - 🔭 I’m currently working on **improving my front-end skills**
