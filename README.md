@@ -12,6 +12,7 @@ Hi 👋, I'm Tharunkumar
 
 - 📫 How to reach me **tharunkumartharun188@gmail.com**
 
+- 🗣️ Pronounce : **He/Him**
 
 ![Visitor Count](https://profile-counter.glitch.me/{TharunGowda-S}/count.svg)
 
