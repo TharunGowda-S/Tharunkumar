@@ -1,6 +1,7 @@
 # Tharunkumar
 Hi 👋, I'm Tharunkumar
 
+## About Me:
 
 - 🔭 I’m currently working on **improving my front-end skills**
 
