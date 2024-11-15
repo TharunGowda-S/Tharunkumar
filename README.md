@@ -17,7 +17,7 @@ Hi 👋, I'm Tharunkumar
 
 
 
-![](https://komarev.com/ghpvc/?username=TharunGowda-S&color=blue)
+![]([https://komarev.com/ghpvc/?username=tharungowda-s&label=Profile%20views&color=0e75b6&style=flat])
 
 
 
